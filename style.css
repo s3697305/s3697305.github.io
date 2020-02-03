@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    background-origin: padding-box;
+    
+}
+
+h1:hover {
+    color:black;
+    /*font-size: 50px;*/
+    
+}
